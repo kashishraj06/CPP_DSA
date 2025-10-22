@@ -1,2 +1,4 @@
 # CPP_DSA
-This is my git repository created for DSA in C++.
+This is my first git repository created for DSA in C++.
+<br>
+Author : Kashish Rajput
